@@ -18,3 +18,8 @@ h2 {
 .main-goals li {
   margin: 1em 0;
 }
+
+.quote-author {
+  color: #5555AA;
+  font-size: 0.8em;
+}
